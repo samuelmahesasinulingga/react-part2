@@ -8,7 +8,7 @@ function Hero() {
                 bg-[url('https://images.pexels.com/photos/6460791/pexels-photo-6460791.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1')] h-[500px] py-20 px-[12%] bg-no-repeat bg-center bg-cover flex justify-center items-center flex-col">
             <div className="text-black flex items-center justify-center flex-col gap-2">
                 <h1 className="text-4xl font-bold text-primary-dark">Samuel's Clothes</h1>
-                <h4 className="text-primary-dark font-bold">Kue ulang tahun custum dan menarik</h4>
+                <h4 className="text-primary-dark font-bold">Lorem ipsum dolor sit amet Lorem ipsum dolor</h4>
                 <p>
                     Lorem ipsum dolor sit amet, consectetur adipisicing elit.
                     Consequatur, iure?
